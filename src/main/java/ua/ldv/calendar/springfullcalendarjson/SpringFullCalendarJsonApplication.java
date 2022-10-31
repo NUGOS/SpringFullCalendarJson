@@ -1,4 +1,4 @@
-package com.example.springfullcalendarjson;
+package ua.ldv.calendar.springfullcalendarjson;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

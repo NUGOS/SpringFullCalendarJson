@@ -1,4 +1,4 @@
-package com.example.springfullcalendarjson.model;
+package ua.ldv.calendar.springfullcalendarjson.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,10 +1,10 @@
-package com.example.springfullcalendarjson.controller;
+package ua.ldv.calendar.springfullcalendarjson.controller;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.springfullcalendarjson.model.Event;
+import ua.ldv.calendar.springfullcalendarjson.model.Event;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
