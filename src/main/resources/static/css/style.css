@@ -1,9 +1,28 @@
 
 .cal {
-    width: 1200px;
-    height: 1200px;
+    max-width: calc(90% - 10px);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin-left: 10%;
+    flex-wrap: wrap;
+    flex-basis: 15%;
 }
-
+.fc-view-harness{
+    height: 400px;
+}
+.fc-header-toolbar {
+    margin-top: 100px;
+   /* position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 90%;
+    overflow: hidden;
+    background:white;*/
+}
+.fc .fc-view-harness{
+    margin-top: 10px;
+}
 .calendar {
 
 }
